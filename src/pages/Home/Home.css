@@ -1,0 +1,23 @@
+.page{
+    background-color:#3D6255;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.title {
+    margin:0px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.trendingStocksTitle {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
